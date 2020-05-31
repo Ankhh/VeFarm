@@ -1,0 +1,28 @@
+.container .left h4 {
+	font-weight: 400;
+	margin-bottom: 5px;
+}
+.ercode li {
+	float: left;
+	margin-right: 20px;
+	margin-top: 20px;
+}
+.ercode li img{
+	width: 150px;
+	height: 150px;
+
+}
+
+.container .right {
+	width: 700px;
+	height: 400px;
+	float: right;
+}
+
+.panel-body {
+	height: 400px;
+}
+
+.container {
+	margin-bottom: 100px;
+}

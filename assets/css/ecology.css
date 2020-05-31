@@ -1,0 +1,34 @@
+
+.ecology_list {
+	margin-top: 50px;
+	margin-bottom: 50px;
+}
+
+.ecology_list li {
+	float: left;
+	width: 372px;
+	height: 321px;
+	border: solid 1px #ccc;
+	margin-right: 42px;
+	margin-bottom: 30px;
+	padding: 10px;
+}
+
+.ecology_list li:nth-child(3n){
+	margin-right: 0px;
+}
+
+.ecology_list li:hover {
+	border: solid 1px yellowgreen;
+	cursor: pointer;
+}
+
+.ecology_list li img {
+	width: 350px;
+	height: 280px;
+}
+
+.ecology_list li p {
+	text-align: center;
+	font-size: 15px;
+}

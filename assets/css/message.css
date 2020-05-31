@@ -1,0 +1,50 @@
+.message {
+	margin-bottom: 50px;
+}
+
+.message form{
+	width: 500px;
+	margin-top: 100px;
+	float: left;
+	margin-left: 95px;
+}
+
+.message input {
+	margin-bottom: 10px;
+}
+
+.message button {
+	margin-top: 50px;
+}
+
+.message img {
+	width: 600px;
+	float: right;
+}
+
+.right {
+	position: relative;
+}
+
+.right h3 {
+	color: orange;
+	position: absolute;
+	top: 20%;
+	left: 10%;
+}
+
+.right p {
+	color: #666;
+	width: 400px;
+	position: absolute;
+	top: 30%;
+	left: 10%;
+}
+
+.right h5 i{
+	position: absolute;
+	top: 50%;
+	left: 10%;
+	font-size: 30px;
+}
+

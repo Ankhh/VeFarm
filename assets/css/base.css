@@ -1,0 +1,98 @@
+body,
+p,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+ul,
+ol,
+dl,
+dd {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+/*
+html,
+body {
+    background-color: aliceblue;
+}*/
+
+.w {
+    width: 1200px;
+    margin: 0 auto;
+    height: 100%;
+}
+
+.iconfont {
+    font-family: "iconfont" !important;
+    font-size: 16px;
+    font-style: normal;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+a {
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: none;
+}
+
+li {
+    list-style: none;
+}
+
+img,
+input {
+    vertical-align: top;
+    border: 0 none;
+    outline-style: none;
+    padding: 0;
+}
+
+.clearfix::after {
+    content: "";
+    display: block;
+    clear: both;
+    height: 0;
+    line-height: 0;
+    visibility: hidden;
+}
+
+.clearfix {
+    zoom: 1;
+}
+
+.left {
+    float: left;
+}
+
+.right {
+    float: right;
+}
+
+dt {
+    margin: 10px 0;
+    font-size: 14px;
+    color: #666;
+    font-weight: 700;
+}
+
+dd {
+    margin-bottom: 3px;
+    font-size: 12px;
+    margin-left: 0;
+    color: #666;
+}
+
+a i {
+    margin-right: 5px;
+}
+
+.banner {
+    background-color: #F7F7F7;
+}

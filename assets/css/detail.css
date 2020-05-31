@@ -1,0 +1,52 @@
+.detail {
+	margin-top: 50px;
+	margin-bottom: 50px;
+	position: relative;
+}
+
+.box, .box img{
+        width: 300px;
+        height: 300px;
+        display: block;
+}
+
+.detail_right {
+	width: 850px;
+	position: absolute;
+	right: 0;
+	top: 0;
+}
+
+.detail_right h4{
+	font-family: '黑体';
+}
+.detail_box{
+	border: 1px solid #666;
+	background-color: #ccc;
+	margin-bottom: 20px;
+}
+
+.detail_right p del{
+	color: #666;
+}
+
+.detail_right p span{
+	font-size: 25px;
+	color: orange;
+	font-weight: 700;
+}
+
+.detail_content {
+	margin-top: 60px;
+	margin-bottom: 50px;
+	font-size: 15px;
+}
+
+.detail_content h5{
+	line-height: 20px;
+	font-size: 13px;
+}
+
+.detail_next {
+	margin-bottom: 100px;
+}
